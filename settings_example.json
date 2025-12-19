@@ -1,0 +1,8 @@
+{
+  "assistant_name": "VEGA",
+  "voice_name": "en-US-ChristopherNeural",
+  "ai_model": "llama-3.1-8b-instant",
+  "vision_model": "llama-3.2-11b-vision-preview",
+  "device": "cpu",
+  "stt_model": "medium.en"
+}

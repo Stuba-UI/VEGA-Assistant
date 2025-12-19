@@ -1,0 +1,24 @@
+# --- SECURITY (NEVER UPLOAD THESE) ---
+.env
+settings.json
+jarvis_memory_db/
+core/chat_history.json
+
+# --- SYSTEM JUNK ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- MEDIA FILES ---
+*.mp3
+*.wav
+*.jpg
+*.png
+capture.jpg
+response.mp3
+
+# --- PYTHON ENVIRONMENTS ---
+env/
+venv/
+my_310_env/
+.venv
